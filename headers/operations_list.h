@@ -1,0 +1,13 @@
+#ifndef H_OPERATIONS_LIST_H
+#define H_OPERATIONS_LIST_H
+
+enum operations {
+    ADDITION = 1,
+    SUBTRACTION,
+    MULTIPLICATION,
+    DIVISION,
+    MODULE,
+    EXIT
+};
+
+#endif // H_OPERATIONS_LIST_H
